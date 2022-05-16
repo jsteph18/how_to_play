@@ -1,9 +1,9 @@
 {
   "steps": [
-    { "id": 1, "detail": "The game is played on a grid that's 3x3, 4x4, or 5x5." },
+    { "id": 1, "detail": "The game is played on a grid that's 3x3." },
     { "id": 2, "detail": "Both player will can choose symbols (X or O), both player cannot be the same symbols." },
     { "id": 3, "detail": "Each player will take turns filling in empty spaces in the grid." },
-	{ "id": 4, "detail": "The first player to get 3, 4, or 5 of their symbol in a row (up, down, across, or diagonally) is the winner." },
-    { "id": 5, "detail": "If all squares are full and no player has 3,4 or 5 symbols in a row, the game is over and ends in a draw." }
+	{ "id": 4, "detail": "The first player to get 3 of their symbol in a row (up, down, across, or diagonally) is the winner." },
+    { "id": 5, "detail": "If all squares are full and no player has 3 symbols in a row, the game is over and ends in a draw." }
   ]
 }
